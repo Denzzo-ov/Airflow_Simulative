@@ -1,4 +1,3 @@
-# dags/dynamic_dag.py
 from datetime import datetime, timedelta
 
 from airflow import DAG
